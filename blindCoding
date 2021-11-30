@@ -45,7 +45,8 @@ button {
     <img id = 'google-logo'
       src = "https://www.google.co.uk/logos/doodles/2021/st-andrews-day-2021-6753651837109150-l.webp"
     />
-    
+    <button>Google Search</button>
+    <button>I'm Feeling Lucky</button>
     <!-- Search icon -->
     <svg
       focusable="false"
